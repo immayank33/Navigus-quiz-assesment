@@ -1,0 +1,24 @@
+[
+    {
+        "Name": "Mohammad Umaid Ansari",
+        "Email": "umaidansari123@gmail.com",
+        "Username": "umaid123",
+        "Password": "umaid@123",
+        "Course": {
+            "1": "Computer",
+            "2": "science",
+            "3": "Mathematics",
+            "4": "c++",
+            "5": "dbms"
+        }
+    },
+    {
+        "Name": "Dummy",
+        "Email": "dummy@gmail.com",
+        "Username": "dummy123",
+        "Password": "dummy@123",
+        "Course": [
+            "c"
+        ]
+    }
+]
